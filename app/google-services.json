@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209638389246",
+    "project_id": "whatsappwelfare-6935a",
+    "storage_bucket": "whatsappwelfare-6935a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209638389246:android:12ee8cb7f1868002c6fcaf",
+        "android_client_info": {
+          "package_name": "com.welfare.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209638389246-amf4tr9n0vtqe65qmnbsoikvu1hmhde7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqRvj_rkI34fLC1w5t7Jho2Dqvg7JWOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209638389246-amf4tr9n0vtqe65qmnbsoikvu1hmhde7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
